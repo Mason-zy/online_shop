@@ -1,0 +1,23 @@
+nohup: ignoring input
+
+> my-web-app@0.1.2 dev
+> vite --mode development
+
+
+  VITE v4.0.4  ready in 1470 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://10.0.4.7:3000/
+  ➜  Network: http://172.20.0.1:3000/
+  ➜  Network: http://172.22.0.1:3000/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+(node:23298) Warning: An error event has already been emitted on the socket. Please use the destroy method on the socket while handling a 'clientError' event.
+(Use `node --trace-warnings ...` to show where the warning was created)
+2:07:31 PM [vite] hmr update /src/views/index/components/content.vue
+2:17:13 PM [vite] hmr update /src/views/index/components/content.vue, /src/views/index/components/content.vue?vue&type=style&index=0&scoped=ed300ff2&lang.less
+2:19:27 PM [vite] hmr update /src/views/index/components/content.vue?vue&type=style&index=0&scoped=ed300ff2&lang.less, /src/views/index/components/content.vue
+2:20:40 PM [vite] hmr update /src/views/index/components/content.vue
+2:20:42 PM [vite] hmr update /src/views/index/components/content.vue?vue&type=style&index=0&scoped=ed300ff2&lang.less
+2:25:39 PM [vite] hmr update /src/views/index/components/content.vue?vue&type=style&index=0&scoped=ed300ff2&lang.less, /src/views/index/components/content.vue

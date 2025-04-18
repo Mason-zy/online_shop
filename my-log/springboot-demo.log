@@ -1,0 +1,18 @@
+2025-04-18 17:17:00.069 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 55 ] - Starting MySpringApplication using Java 17.0.10 on YONG with PID 12284 (D:\Adownload\java_shop\server\target\classes started by 14420 in D:\Adownload\java_shop)
+2025-04-18 17:17:00.075 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 659 ] - No active profile set, falling back to default profiles: default
+2025-04-18 17:17:02.153 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Initializing ProtocolHandler ["http-nio-9100"]
+2025-04-18 17:17:02.154 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardService : 173 ] - Starting service [Tomcat]
+2025-04-18 17:17:02.155 [ main ] - [ INFO  ] [ org.apache.catalina.core.StandardEngine : 173 ] - Starting Servlet engine: [Apache Tomcat/9.0.53]
+2025-04-18 17:17:02.157 [ main ] - [ INFO  ] [ org.apache.catalina.core.AprLifecycleListener : 173 ] - Loaded Apache Tomcat Native library [1.2.38] using APR version [1.7.4].
+2025-04-18 17:17:02.157 [ main ] - [ INFO  ] [ org.apache.catalina.core.AprLifecycleListener : 173 ] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2025-04-18 17:17:02.157 [ main ] - [ INFO  ] [ org.apache.catalina.core.AprLifecycleListener : 173 ] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-04-18 17:17:02.162 [ main ] - [ INFO  ] [ org.apache.catalina.core.AprLifecycleListener : 173 ] - OpenSSL successfully initialized [OpenSSL 1.1.1v  1 Aug 2023]
+2025-04-18 17:17:02.261 [ main ] - [ INFO  ] [ o.a.c.c.ContainerBase.[Tomcat].[localhost].[/api] : 173 ] - Initializing Spring embedded WebApplicationContext
+2025-04-18 17:17:02.419 [ main ] - [ INFO  ] [ c.a.d.s.b.a.DruidDataSourceAutoConfigure : 56 ] - Init DruidDataSource
+2025-04-18 17:17:02.621 [ main ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 975 ] - {dataSource-1} inited
+2025-04-18 17:17:03.049 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.metadata.TableInfoHelper : 342 ] - Can not find table primary key in Class: "java.lang.Object".
+2025-04-18 17:17:03.050 [ main ] - [ WARN  ] [ c.b.mybatisplus.core.injector.DefaultSqlInjector : 56 ] - class java.lang.Object ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+2025-04-18 17:17:04.973 [ main ] - [ INFO  ] [ org.apache.coyote.http11.Http11NioProtocol : 173 ] - Starting ProtocolHandler ["http-nio-9100"]
+2025-04-18 17:17:05.067 [ main ] - [ INFO  ] [ com.gk.study.MySpringApplication : 61 ] - Started MySpringApplication in 6.337 seconds (JVM running for 7.664)
+2025-04-18 17:17:20.446 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2063 ] - {dataSource-1} closing ...
+2025-04-18 17:17:20.447 [ SpringApplicationShutdownHook ] - [ INFO  ] [ com.alibaba.druid.pool.DruidDataSource : 2136 ] - {dataSource-1} closed
