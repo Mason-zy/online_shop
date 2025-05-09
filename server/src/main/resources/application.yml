@@ -6,7 +6,7 @@ server:
 #BASE_LOCATION: D:/Project/FandB/ksb/java_shop
 DB_NAME: java_shop
 
-BASE_LOCATION: D:/Adownload/java_shop
+BASE_LOCATION: D:\Project\MyProject\java_shop
 #DB_NAME: java_shop
 
 File:

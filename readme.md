@@ -105,3 +105,20 @@
 5. **模块化设计**：便于维护和扩展
 
 该系统适合作为电商网站开发的学习项目、课程设计或毕业设计，涵盖了现代电商平台的核心功能组件。
+
+截图：
+
+![image-20250509153111481](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091537877.png)
+
+![image-20250509153254868](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091537806.png)
+
+![image-20250509153320271](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091537807.png)
+
+![image-20250509153423383](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091537808.png)
+
+![image-20250509153444311](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091537809.png)
+
+![image-20250509153517026](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091536854.png)
+
+联系作者：
+![fe7f9e86f6ed55e4cef1a3be701e455](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091539470.jpg)
