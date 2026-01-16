@@ -120,6 +120,5 @@
 
 ![image-20250509153517026](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091536854.png)
 
-联系作者：
-![fe7f9e86f6ed55e4cef1a3be701e455](https://gitee.com/zhou-zhou110/pik-bed/raw/master/img/202505091539470.jpg)
+联系作者：完整源码500
 weixin:zy0550157
